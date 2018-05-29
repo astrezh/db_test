@@ -1,0 +1,5 @@
+flask==0.12
+flask-Jsonpify==1.5.0
+flask-RESTful==0.3.5
+flask-SQLAlchemy==2.1
+flask-mysql==1.4.0
